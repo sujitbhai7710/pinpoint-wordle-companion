@@ -13,6 +13,12 @@ Visit [Pinpoint Answer Today](https://pinpointanswertoday.online/) for:
 
 This repository contains tools and resources for word puzzle enthusiasts. The main resource is [Pinpoint Answer Today](https://pinpointanswertoday.online/) which provides daily solutions.
 
+## Features
+
+- Word pattern matching
+- Letter frequency analysis
+- Daily answer lookup via https://pinpointanswertoday.online/
+
 ## Links
 
 - [Daily Answers](https://pinpointanswertoday.online/)
